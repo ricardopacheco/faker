@@ -1,0 +1,28 @@
+pt-BR:
+  faker:
+    commerce:
+      department: ["Livros", "Filmes", "Música", "Jogos", "Eletrônicos", "Computadores", "Casa", "Jardim", "Ferramentas", "Mercearia", "Saúde", "Beleza", "Brinquedos", "Crianças", "Bebê", "Vestuário", "Sapatos", "Joias", "Esportes", "Exterior", "Automotivo", "Industrial"]
+      product_name:
+        adjective: ["Pequeno", "Ergonômico", "Rústico", "Inteligente", "Maravilhoso", "Incrível", "Fantástico", "Prático", "Elegante", "Impressionante", "Enorme", "Medíocre", "Sinérgico", "Pesado", "Leve", "Aerodinâmico", "Durável"]
+        material: ["Aço", "Madeira", "Concreto", "Plástico", "Algodão", "Granito", "Borracha", "Couro", "Seda", "Lã", "Linho", "Mármore", "Ferro", "Bronze", "Cobre", "Alumínio", "Papel"]
+        product: ["Cadeira", "Carro", "Computador", "Luvas", "Calças", "Camisa", "Mesa", "Sapatos", "Chapéu", "Prato", "Faca", "Garrafa", "Casaco", "Lâmpada", "Teclado", "Bolsa", "Banco", "Relógio", "Assistir", "Carteira"]
+      promotion_code:
+        adjective: ["Incrível", "Impressionante", "Legal", "Bom", "Ótimo", "Incrível", "Matador", "Premium", "Especial", "Estelar", "Doce"]
+        noun: ["Código", "Negócio", "Desconto", "Preço", "Promoção", "Promoção", "Venda", "Economia"]
+      brand: ['Samsung',
+              'Dell',
+              'Nike',
+              'Apple',
+              'LG',
+              'Adidas',
+              'Nikon',
+              'Sony',
+              'Beats',
+              'GoPro'
+      ]
+      vendor: [
+        'Amazon',
+        'Dollar General',
+        'Walmart',
+        'Target'
+      ]
